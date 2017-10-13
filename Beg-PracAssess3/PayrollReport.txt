@@ -1,0 +1,7 @@
+Total payroll $105886.25
+Average pay $2941.28
+
+Total pay for:
+Managers $21344.34
+Sales Staff $54530.51
+Admin Staff $30011.4
