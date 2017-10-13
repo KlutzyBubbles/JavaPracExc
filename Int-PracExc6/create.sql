@@ -9,7 +9,7 @@ CREATE TABLE tblUsers (
 	Enabled		INT			NOT NULL
 ) Engine=InnoDB;
 
-INSERT INTO tblUsers VALUES ('admin', 'Manager', 'Admin', 'tafe123', 2, 1);
-INSERT INTO tblUsers VALUES ('jimt', 'Jim', 'Tresinits', 'tafe123', 1, 1);
-INSERT INTO tblUsers VALUES ('fred', 'Fred', 'Roberts', 'tafe123', 1, 1);
-INSERT INTO tblUsers VALUES ('sams', 'Sam', 'Smith', 'tafe123', 1, 1);
+INSERT INTO tblUsers VALUES ('admin', 'Manager', 'Admin', 'mypassword', 2, 1);
+INSERT INTO tblUsers VALUES ('jimt', 'Jim', 'Johnathon', 'theirpassword', 1, 1);
+INSERT INTO tblUsers VALUES ('fred', 'Fred', 'Roberts', 'apassword', 2, 1);
+INSERT INTO tblUsers VALUES ('sams', 'Sam', 'Smith', 'thepassword', 1, 1);
