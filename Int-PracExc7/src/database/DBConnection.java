@@ -42,9 +42,9 @@ public class DBConnection {
 	/**
 	 * Default values used for establishing a connection to the database
 	 */
-	private static final String HOST = "aa1pbp9r9ep7nr4.cjteaf7u2cci.ap-southeast-2.rds.amazonaws.com";
-	private static final String USERNAME = "dataappsmysql";
-	private static final String PASSWORD = "_d&cQA*2!|g_VnuM";
+	private static final String HOST = "localhost";
+	private static final String USERNAME = "root";
+	private static final String PASSWORD = "root";
 	private static final String DATABASE = "int_java_login";
 	private static final int PORT = 3306;
 	
